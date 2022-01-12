@@ -1,0 +1,21 @@
+.header {
+  flex: 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.header h1 {
+  display: inline-block;
+  color: var( --og-title );
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  flex: 1 1;
+  margin: 0;
+  padding: 0;
+}
